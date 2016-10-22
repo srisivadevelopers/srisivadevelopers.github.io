@@ -1,8 +1,8 @@
-Copyright (c) 2014, Stephen Hutchings (http://www.s-ings.com/).
+Copyright (c) 2014, Stephen Hutchings (https://www.s-ings.com/).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
 
 SIL OPEN FONT LICENSE
 

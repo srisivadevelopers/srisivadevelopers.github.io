@@ -15,5 +15,5 @@ We focused most of our effort on the footer and header navigation to allow you t
 
 == Credits ==
 
-* Tesseract was based on Underscores http://underscores.me/ - (C) 2012-2014 Automattic, Inc. - [GNU General Public License v2 or later]
-* /fonts/ http://typicons.com/ - (C) 2014 Stephen Hutchings - [SIL Open Font License]
+* Tesseract was based on Underscores https://underscores.me/ - (C) 2012-2014 Automattic, Inc. - [GNU General Public License v2 or later]
+* /fonts/ https://typicons.com/ - (C) 2014 Stephen Hutchings - [SIL Open Font License]

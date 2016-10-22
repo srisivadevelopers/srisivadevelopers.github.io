@@ -11,7 +11,7 @@
 		$( '#comment' ).attr( 'placeholder','Your Comment' );
 		
 		// Equal height blocks
-		// See @ http://css-tricks.com/equal-height-blocks-in-rows/
+		// See @ https://css-tricks.com/equal-height-blocks-in-rows/
 		
 		equalheight = function(container){
 		
